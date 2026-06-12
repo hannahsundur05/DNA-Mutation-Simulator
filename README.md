@@ -1,4 +1,4 @@
-##DNA Mutation Simulator
+## DNA Mutation Simulator
 
 A Beginner Bioinformatics Project built using Python.
 
